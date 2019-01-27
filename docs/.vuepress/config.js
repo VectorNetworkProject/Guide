@@ -43,6 +43,9 @@ module.exports = {
                         message: "New content is available.",
                         buttonText: "Refresh"
                     }
+                },
+                sidebar: {
+                    '/en-US/user/': require('./sidebar/User')('Guide')
                 }
             }
         }
