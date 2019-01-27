@@ -30,7 +30,7 @@ module.exports = {
                     }
                 },
                 sidebar: {
-                    '/user/': require('./sidebar/Guide')('ガイド')
+                    '/guild/': require('./sidebar/Guide')('ガイド')
                 }
             },
             '/en-US/': {
@@ -46,7 +46,7 @@ module.exports = {
                     }
                 },
                 sidebar: {
-                    '/en-US/user/': require('./sidebar/Guide')('Guide')
+                    '/en-US/guild/': require('./sidebar/Guide')('Guide')
                 }
             }
         }
