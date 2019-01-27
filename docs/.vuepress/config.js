@@ -12,7 +12,7 @@ module.exports = {
         }
     },
     themeConfig: {
-        repo: 'VectorNetworkProject/VectorNetworkDocs',
+        repo: 'VectorNetworkProject/Guide',
         docsDir: 'docs',
         editLinks: true,
         locales: {
