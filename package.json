@@ -5,8 +5,8 @@
   "author": "VectorNetworkProject",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vurpress build docs"
+    "dev": "vuepress dev guide",
+    "build": "vurpress build guide"
   },
   "dependencies": {},
   "devDependencies": {

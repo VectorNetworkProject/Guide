@@ -1,7 +1,7 @@
-module.exports = function(guidename) {
+module.exports = function(name) {
     return [
         {
-            title: guidename,
+            title: name,
             collapsable: false,
             children: [
                 'getting-started'
