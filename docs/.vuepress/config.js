@@ -29,7 +29,7 @@ module.exports = {
                     }
                 }
             },
-            '/en-US': {
+            '/en-US/': {
                 label: 'English',
                 selectText: 'Languages',
                 editLinkText: 'Edit this page on GitHub',
