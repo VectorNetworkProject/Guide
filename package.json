@@ -1,12 +1,12 @@
 {
   "name": "guide",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/VectorNetworkProject/VectorNetworkDocs.git",
   "author": "VectorNetworkProject",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev docs"
+    "dev": "vuepress dev docs",
+    "build": "vurpress build docs"
   },
   "dependencies": {},
   "devDependencies": {
