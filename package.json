@@ -1,0 +1,15 @@
+{
+  "name": "vectornetworkguide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VectorNetworkProject/VectorNetworkDocs.git",
+  "author": "VectorNetworkProject",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
