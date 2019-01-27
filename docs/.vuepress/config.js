@@ -27,6 +27,9 @@ module.exports = {
                         message: '新しいコンテンツが利用可能です。',
                         buttonText: '更新する。'
                     }
+                },
+                sidebar: {
+                    '/user/': require('./sidebar/User')('ガイド')
                 }
             },
             '/en-US/': {
