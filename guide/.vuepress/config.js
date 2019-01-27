@@ -15,6 +15,7 @@ module.exports = {
         repo: 'VectorNetworkProject/Guide',
         docsDir: 'guide',
         editLinks: true,
+        ga: 'UA-133305122-1',
         locales: {
             '/': {
                 label: '日本語',
