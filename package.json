@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev guide",
-    "build": "vurpress build guide"
+    "build": "vuepress build guide"
   },
   "dependencies": {},
   "devDependencies": {
