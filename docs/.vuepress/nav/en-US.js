@@ -1,6 +1,6 @@
 module.exports = [
     {
-        text: 'Guide',
-        link: '/en-US/guide/'
+        text: 'Discord',
+        link: 'https://discord.gg/EF2G5dh'
     }
 ]
