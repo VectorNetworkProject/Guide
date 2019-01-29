@@ -1,6 +1,6 @@
 module.exports = [
     {
-        text: 'Elias',
+        text: 'Developer',
         link: '/en-US/elias/'
     },
     {

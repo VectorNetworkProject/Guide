@@ -1,6 +1,6 @@
 module.exports = [
     {
-        text: 'Elias',
+        text: '開発者向け',
         link: '/elias/'
     },
     {
