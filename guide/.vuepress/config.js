@@ -23,15 +23,9 @@ module.exports = {
                 editLinkText: 'GitHubでこのページを編集する。',
                 lastUpdated: '最終更新日',
                 nav: require('./nav/ja-JP'),
-                serviceWorker: {
-                    updatePopup: {
-                        message: '新しいコンテンツが利用可能です。',
-                        buttonText: '更新する。'
-                    }
-                },
                 sidebar: {
                     '/guide/': require('./sidebar/Guide')('ガイド'),
-                    '/elias/': require('./sidebar/Elias')('フレームワーク')
+                    '/elias/': require('./sidebar/Elias')('セットアップ')
                 }
             },
             '/en-US/': {
@@ -40,15 +34,9 @@ module.exports = {
                 editLinkText: 'Edit this page on GitHub',
                 lastUpdated: 'Last Updated',
                 nav: require('./nav/en-US'),
-                serviceWorker: {
-                    updatePopup: {
-                        message: "New content is available.",
-                        buttonText: "Refresh"
-                    }
-                },
                 sidebar: {
                     '/en-US/guide/': require('./sidebar/Guide')('Guide'),
-                    '/en-US/elias/': require('./sidebar/Elias')('Framework')
+                    '/en-US/elias/': require('./sidebar/Elias')('Setup')
                 }
             }
         }
