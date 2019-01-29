@@ -30,7 +30,8 @@ module.exports = {
                     }
                 },
                 sidebar: {
-                    '/guide/': require('./sidebar/Guide')('ガイド')
+                    '/guide/': require('./sidebar/Guide')('ガイド'),
+                    '/elias/': require('./sidebar/Elias')('フレームワーク')
                 }
             },
             '/en-US/': {
@@ -46,7 +47,8 @@ module.exports = {
                     }
                 },
                 sidebar: {
-                    '/en-US/guide/': require('./sidebar/Guide')('Guide')
+                    '/en-US/guide/': require('./sidebar/Guide')('Guide'),
+                    '/en-US/elias/': require('./sidebar/Elias')('Framework')
                 }
             }
         }
