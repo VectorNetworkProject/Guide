@@ -1,7 +1,7 @@
 module.exports = [
     {
         text: 'Elias',
-        link: '/elias/'
+        link: '/eu-US/elias/'
     },
     {
         text: 'Discord',
