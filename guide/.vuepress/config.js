@@ -7,7 +7,7 @@ module.exports = {
     ['meta', { name: 'author', content: 'VectorNetworkProject' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:url', content: 'https://guide.vector-network.tk' }],
-    ['meta', { name: 'twitter:image', content: '/icon.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://guide.vector-network.tk/icon.png' }],
     ['meta', { name: 'twitter:site', content: '@Vector_Network_' }],
     ['meta', { name: 'twitter:creator', content: '@InkoHX' }],
     ['meta', { name: 'msapplication-TileColor', content: '#bcbcbc' }],
@@ -15,9 +15,9 @@ module.exports = {
     ['meta', {property: 'og:title', content: 'VectorNetwork - Guide'}],
     ['meta', {property: 'og:site_name', content: 'VectorNetwork - Guide'}],
     ['meta', {property: 'og:url', content: 'https://guide.vector-network.tk'}],
-    ['meta', { property: 'og:image', content: '/icon.png' }],
+    ['meta', { property: 'og:image', content: 'https://guide.vector-network.tk/icon.png' }],
     ['meta', { property: 'og:type', content: 'site' }],
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: 'https://guide.vector-network.tk/icon.png' }]
   ],
   locales: {
     '/': {
